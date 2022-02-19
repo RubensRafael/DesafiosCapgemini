@@ -8,7 +8,7 @@ A primeira forma é a mais fácil, é só acessar esses links abaixo, eles te le
 Mas antes, gostaria de fazer alguns avisos:
 - O código irá rodar assim que a página for carregada, se por algum motivo, isso não aconteça,
 basta editar qualquer uma das outras abas do CodePen como HTLM, ou CSS, aguardar alguns segundos e vai funcionar.
-- Mantenha o console visível, as saídas serão enviadas por lá.
+- Mantenha o console do CodePen visível, as saídas serão enviadas por lá.
 - Eu estou usando a função `prompt` para obter as entradas, portanto, um input pop-up (parecido com um alert) aparecerá na tela.
 
 Links do codePen:
